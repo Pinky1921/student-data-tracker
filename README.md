@@ -35,10 +35,3 @@ python student_tracker_pg.py
 2. Choose an option from the menu.
 3. Follow prompts to input data or perform actions.
 4. Data is stored in-memory and can be saved to CSV for persistence.
-
-## 🛠 Build and Submit
-
-1. Create a GitHub repo.
-2. Upload `student_tracker_pg.py` and `README.md`.
-3. Commit and push.
-4. Share the repo link for submission.
